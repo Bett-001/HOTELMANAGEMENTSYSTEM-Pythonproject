@@ -31,7 +31,7 @@ phase3project/
 │   ├── debug.py             # Used for debugging models interactively
 │   └── db/
 │       ├── models.py        # SQLAlchemy ORM models (Room, Guest, Booking)
-│       └── __init__.py      # Database engine and session setup
+│       └── __init__.py  
 │
 ├── migrations/              # Alembic migration scripts
 │   ├── env.py
@@ -142,3 +142,5 @@ Contributions are welcome. You may open issues or submit pull requests with impr
 ## License
 
 This project is available under an open license. You may modify or distribute it as needed.
+
+@tonnybett2025
